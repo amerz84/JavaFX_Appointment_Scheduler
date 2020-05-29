@@ -2,12 +2,14 @@
 JavaFX Appointment Scheduler Application
 Developed on NetBeans 8.2
 //////////////////////////////////////////////////////////////////////////////////////////////
+
 SCENARIO
 "You are working for a software company that has been contracted to develop a scheduling desktop user interface application. 
 The contract is with a global consulting organization that conducts business in multiple languages and has main offices in 
 Phoenix, Arizona; New York, New York; and London, England. The consulting organization has provided a MySQL database that your 
 application must pull data from. The database is used for other systems and therefore its structure cannot be modified."
 ////////////////////////////////////////////////////////////////////////////////////////////////
+
 REQUIREMENTS
 A.   Create a log-in form that can determine the user’s location and translate log-in and error control messages 
 (e.g., “The username and password did not match.”) into two languages.
@@ -41,5 +43,6 @@ I.   Provide the ability to generate each of the following reports:
 J.   Provide the ability to track user activity by recording timestamps for user log-ins in a .txt file. 
 Each new record should be appended to the log file, if the file already exists.
 ///////////////////////////////////////////////////////////////////////////////////////
+
 USERNAME test
 PASSWORD test
