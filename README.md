@@ -1,10 +1,10 @@
 # C195_Appointment_Scheduler
 JavaFX Appointment Scheduler Application
-Developed on NetBeans 8.2
+Developed using NetBeans 8.2
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 
-SCENARIO
+### SCENARIO
 
 "You are working for a software company that has been contracted to develop a scheduling desktop user interface application. 
 The contract is with a global consulting organization that conducts business in multiple languages and has main offices in 
@@ -13,10 +13,10 @@ application must pull data from. The database is used for other systems and ther
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
-REQUIREMENTS
+### REQUIREMENTS
 
 A.   Create a log-in form that can determine the user’s location and translate log-in and error control messages 
-(e.g., “The username and password did not match.”) into two languages.
+(e.g., “The username and password did not match.”) into **two languages**.
 
 B.   Provide the ability to add, update, and delete customer records in the database, including name, address, and phone number.
 
@@ -25,9 +25,9 @@ specific customer record in the database.
 
 D.   Provide the ability to view the calendar by month and by week.
 
-E.    Provide the ability to automatically adjust appointment times based on user time zones and daylight saving time.
+E.    Provide the ability to automatically adjust appointment times based on user **time zones and daylight savings time**.
 
-F.   Write exception controls to prevent each of the following. You may use the same mechanism of exception control 
+F.   Write **exception controls** to prevent each of the following. You may use the same mechanism of exception control 
 more than once, but you must incorporate at least  two different mechanisms of exception control.
 
 •   scheduling an appointment outside business hours
@@ -38,7 +38,7 @@ more than once, but you must incorporate at least  two different mechanisms of e
 
 •   entering an incorrect username and password
 
-G.  Write two or more lambda expressions to make your program more efficient, justifying the use of each lambda expression 
+G.  Write two or more **lambda expressions** to make your program more efficient, justifying the use of each lambda expression 
 with an in-line comment.
 
 H.   Write code to provide an alert if there is an appointment within 15 minutes of the user’s log-in.
@@ -51,10 +51,19 @@ I.   Provide the ability to generate each of the following reports:
 
 •   one additional report of your choice
 
-J.   Provide the ability to track user activity by recording timestamps for user log-ins in a .txt file. 
+J.   Provide the ability to track user activity by **recording timestamps for user log-ins** in a .txt file. 
 Each new record should be appended to the log file, if the file already exists.
 
 ///////////////////////////////////////////////////////////////////////////////////////
 
-USERNAME test
-PASSWORD test
+### INSTRUCTIONS
+
+1. Open the **C195Scheduler.jar** file in C195Scheduler\dist directory.
+
+2. Enter Credentials:
+
+    Username: **test**
+    
+    Password: **test**
+    
+3. Add/edit appointments and customers, view reports as desired.
