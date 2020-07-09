@@ -51,7 +51,7 @@ specific customer record in the database.
 
 ## INSTRUCTIONS
 
-1. Open the **C195Scheduler.jar** file in C195Scheduler\dist directory.
+1. Download [**C195Scheduler.jar**](C195Scheduler.jar)
 
 2. Enter Credentials:
 
