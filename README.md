@@ -1,5 +1,4 @@
-# C195_Appointment_Scheduler
-JavaFX Appointment Scheduler Application
+# JavaFX Appointment Scheduler Application
 
 Developed using NetBeans 8.2
 
@@ -65,3 +64,18 @@ specific customer record in the database.
 
 ## EXAMPLES
 
+Code snippet showing method checking for upcoming appointment within 15 minutes of login
+
+<img src="screenshots/appointment_alert.png" width="900" height="400" />
+
+"Add appointment" screen showing date picker widget
+
+<img src="screenshots/appt_calendar.png" width="800" height="450" />
+
+"New customer" screen
+
+<img src="screenshots/new_customer.png" width="700" height="500" />
+
+Appointment schedule report for "test" user
+
+<img src="screenshots/user_schedule.png" width="700" height="450" />
