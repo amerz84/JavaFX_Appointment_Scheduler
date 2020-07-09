@@ -75,3 +75,7 @@ specific customer record in the database.
 Appointment schedule report for "test" user
 
 <img src="screenshots/user_schedule.png" width="700" height="450" />
+
+Code snippet showing method checking for upcoming appointment within 15 minutes of login
+
+<img src="screenshots/appointment_alert.png" width="900" height="300" />
