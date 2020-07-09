@@ -51,7 +51,7 @@ specific customer record in the database.
 
 ## INSTRUCTIONS
 
-1. Download [**C195Scheduler.jar**](C195Scheduler.jar)
+1. Download [**C195Scheduler.jar**](C195Scheduler.jar) and execute the file on Windows
 
 2. Enter Credentials:
 
