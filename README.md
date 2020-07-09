@@ -61,3 +61,7 @@ specific customer record in the database.
     Password: **test**
     
 3. Add/edit appointments and customers, view reports as desired.
+
+
+## EXAMPLES
+
