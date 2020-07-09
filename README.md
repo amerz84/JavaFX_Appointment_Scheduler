@@ -64,10 +64,6 @@ specific customer record in the database.
 
 ## EXAMPLES
 
-Code snippet showing method checking for upcoming appointment within 15 minutes of login
-
-<img src="screenshots/appointment_alert.png" width="900" height="400" />
-
 "Add appointment" screen showing date picker widget
 
 <img src="screenshots/appt_calendar.png" width="800" height="450" />
